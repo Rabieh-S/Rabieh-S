@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rabieh SASSI</h1>
 <h2 align="center">About me</h2>
 <ul>
-    <li>🔭 I’m currently working on : Remindy, a mobile app project to check our outcomes</li>
-    <li>👯 I’m looking to collaborate on : projects that makes me better in cybersecurity. I can also work on web development, I've learned many things related to Javascript.</li>
-    <li>💬 Ask me about : Cybersecurity, Web development, Open sources projects</li>
+    <li>🔭 I’m currently working on : Liftly, when your progression is finally tracked in your gym days</li>
+    <li>💬 Ask me about : Cybersecurity, Web development, Games, Martial Art</li>
     <li>📫 How to reach me ? : You can visit my portfolio at https://rabieh-sassi.netlify.app/ or contact me directly on rabieh.sassi@epitech.eu</li>
     <li>⚡ Fun fact : I was a Riven main OTP Diamond 3 in League of Legends (Season 2 and 3)</li>
 </ul>
